@@ -1,0 +1,15 @@
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.csproj.AssemblyReference.cache
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.AssemblyInfoInputs.cache
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.AssemblyInfo.cs
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.csproj.CoreCompileInputs.cache
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/bin/Debug/net7.0/BinaryTree
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/bin/Debug/net7.0/BinaryTree.deps.json
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/bin/Debug/net7.0/BinaryTree.runtimeconfig.json
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/bin/Debug/net7.0/BinaryTree.dll
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/bin/Debug/net7.0/BinaryTree.pdb
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.dll
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/refint/BinaryTree.dll
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.pdb
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/BinaryTree.genruntimeconfig.cache
+/Users/nikita/RiderProjects/BinaryTree/BinaryTree/obj/Debug/net7.0/ref/BinaryTree.dll
